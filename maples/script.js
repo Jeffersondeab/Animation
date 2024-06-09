@@ -9,7 +9,7 @@ var numberOfMaple = 20;
 var particleArray = [];
 
 var flor = new Image();
-flor.src = '/imgs/maple-02.png';
+flor.src = 'leaf.webp';
 
 class Conjunto{
     constructor(){
